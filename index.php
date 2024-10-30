@@ -7,5 +7,15 @@
 </head>
 <body>
     <h1>no problem</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>fafa</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
 </body>
 </html>
