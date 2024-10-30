@@ -11,11 +11,15 @@
         <thead>
             <tr>
                 <th>fafa</th>
+                <th>fafa</th>
+                <th>fafa</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td></td>
+                <td>helo</td>
+                <td>helo</td>
+                <td>helo</td>
             </tr>
         </tbody>
     </table>
